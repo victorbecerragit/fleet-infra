@@ -1,0 +1,6 @@
+# infrastructure/base/traefik-proxy/namespace.yaml
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: traefik-system
