@@ -1,4 +1,3 @@
-# infrastructure/staging/traefik-proxy/values.yaml
 ---
 experimental:
   http3:
